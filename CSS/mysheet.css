@@ -17,9 +17,7 @@ ul li a:hover
 
 body 
 
-{
-	
-	/*background: #448fb9;*/
+{   background-color: #448fb9;
 	background-image: url("../img/dog_bg.jpg");
     font-family: 'Open Sans', serif;
     font-size: 24px;
@@ -74,7 +72,7 @@ h1
 	color:#852D72;
 	align-self: center;
 }
-i:hover
+a:hover
 {   
 	color:white;
 	font-size: 30px;
